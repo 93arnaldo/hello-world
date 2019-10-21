@@ -1,4 +1,5 @@
-#FIZZBUZZ
+#FIZZBUZZ 
+#Python 2.7
 
 print '''Hi This is the game FizzBuzz
  In case a number is divisible with 3, the diplay will show "fizz" instead of the number.
