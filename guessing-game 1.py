@@ -1,5 +1,5 @@
 #Guess the Secret Number 
-#Done in Python 3
+#Coded in Python 3
 #originally written in Nov. 2018
 
 
