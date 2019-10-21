@@ -4,7 +4,9 @@ Hello World! Here I will post ideas, small scripts and my first steps as coder
 I currently code in Python although I'm starting to learn Java and CSS. I love Data Science because it's a field where there are not right or wrong answers, just big problems which requires big ideas and solutions to solve the. that's what I love to do and that's what I want to go after. 
 
 ##################################################
+
 ##Chek our my first game! North Beach Pizza Game##
+
 ##################################################
 
 
