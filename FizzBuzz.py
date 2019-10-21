@@ -15,14 +15,14 @@ while True:
 
         for x in range(Number):
             x += 1
-            if x % 3 != 0:
-                print x
-            elif x % 3 == 0 and x % 5 == 0:
+            if x % 3 == 0 and x % 5 == 0:
                 print "FizzBuzz"
-            else:
+            elif x % 3 == 0:
                 print "Fizz"
-        break #con este break tengo la intencion de parar el loop For pero en realidad paro todo el programa (el While true). mi intencion es que vuelvas al raw imput. Como se puede hacer?
-
+            elif x % 5 == 0::
+                print "Buzz"
+            else:
+                print x
     else:
         print "Please, enter a number between 1 and 100"
-        break
+ 
